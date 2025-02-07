@@ -42,3 +42,5 @@ To play Shock Roulette:
 - Adafruit for NeoPixel library
 - Arduino Community
 - etc.
+
+https://youtu.be/DYTXUyXnuQs
